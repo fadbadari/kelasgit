@@ -1,5 +1,6 @@
 <?php
-"hello git";
-"intro to git";
+echo "hello git";
+echo "intro to git";
+echo " hit at UTM";
 
 ?>
