@@ -1,1 +1,5 @@
-index.php
+<?php
+"hello git";
+"intro to git";
+
+?>
